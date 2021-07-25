@@ -23,7 +23,12 @@
            https://www.anquanke.com/post/id/241810</br>
 - ⭐️ 渗透测试:  </br>
           https://www.anquanke.com/post/id/243003</br>
-                               
+- ⭐️ 域内横向:  </br>          
+          https://www.anquanke.com/post/id/247416</br>
+          https://www.anquanke.com/post/id/247594</br>
+          https://www.anquanke.com/post/id/247646</br>
+          https://www.anquanke.com/post/id/248023</br>
+          
 - ⭐️ 知乎： https://www.zhihu.com/people/du-ji-4-87
 - ⭐️ GitHub： https://github.com/Yang0615777
 - ⭐️ WeChat： SecDev_Yang
