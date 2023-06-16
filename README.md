@@ -8,5 +8,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=1n7erface&show_icons=true&hide_border=true&hide=prs&theme=buefy"></br>
-  <img src="https://profile-counter.glitch.me/NS-Sp4ce/count.svg" />
+  <img src="https://profile-counter.glitch.me/1n7erface/count.svg" />
 </p>
