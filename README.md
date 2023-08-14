@@ -1,6 +1,6 @@
 <h2> Hi, I'm 1n7erface! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 <p align="center">
-  <em>日常做一些渗透测试、攻防、代码审计、武器化</em></br>
+  <em>致力于红队武器化解决方案</em></br>
   若用本人项目去进行：红蓝对抗/APT/黑产/等行为，本人概不负责，也与本人无关
    <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
 </p>
