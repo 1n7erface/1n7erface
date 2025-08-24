@@ -8,5 +8,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=1n7erface&show_icons=true&hide_border=true&hide=prs&theme=buefy"></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1n7erface&hide=html">
 </p>
